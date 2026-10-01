@@ -2,18 +2,6 @@
 
 A Java-based vending machine simulation that handles product inventory, coin management, and purchase transactions with change calculation.
 
-## Description
-
-This system simulates a real vending machine where users can purchase products by inserting coins. It manages product stock, calculates change, and ensures sufficient coins are available for transactions.
-
-## Features
-
-- Add and manage products with quantities
-- Insert coins and calculate totals
-- Purchase products with automatic change calculation
-- Restock products and refill coins
-- Handles edge cases (out of stock, insufficient funds, no change available)
-
 
 ## How It Works
 
